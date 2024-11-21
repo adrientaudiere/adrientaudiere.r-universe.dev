@@ -6,5 +6,9 @@
     {
         "package": "MiscMetabar",
         "url": "https://github.com/adrientaudiere/miscmetabar"
+    },
+    {
+        "package": "greenAlgoR",
+        "url": "https://github.com/adrientaudiere/greenAlgoR"
     }
 ]
