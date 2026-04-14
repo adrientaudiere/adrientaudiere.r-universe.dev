@@ -11,4 +11,24 @@
         "package": "greenAlgoR",
         "url": "https://github.com/adrientaudiere/greenAlgoR"
     }
+    {
+      "package": "taxinfo",                                                               
+      "url": "https://github.com/adrientaudiere/taxinfo"
+    },                                                                                    
+    {                                                 
+      "package": "dbpq",                 
+      "url": "https://github.com/adrientaudiere/dbpq"
+    },                                                                                    
+    {
+      "package": "comparpq",                                                              
+      "url": "https://github.com/adrientaudiere/comparpq"
+    },                                   
+    {
+      "package": "tidypq",
+      "url": "https://github.com/adrientaudiere/tidypq"                                   
+    },
+    {
+      "package": "pqverse",
+      "url": "https://github.com/adrientaudiere/pqverse"                                   
+    }
 ]
